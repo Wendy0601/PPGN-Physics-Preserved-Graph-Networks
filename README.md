@@ -1,3 +1,4 @@
+Please check the details from this website: https://github.com/lanl/PPGN
 # PPGN:Physics-Preserved-Graph-Networks  
 ============================================================================== 
 This software is to locate faults in distribution systems with limited observations and labels through PPGN. PPGN performs better than the baselines when labeled data are insufficient and the distribution of data vary randomly.   Code accompanying the paper ["PPGN: Physics-Preserved Graph Networks for Fault Location with Limited Observation and Labels"] 
